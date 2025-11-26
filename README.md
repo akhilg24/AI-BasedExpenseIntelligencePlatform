@@ -54,24 +54,6 @@ AI-Based Expense Intelligence Platform is an advanced financial management tool 
   - Top expense identification
   - Budget recommendations
 
-### User Experience
-- **🎨 Beautiful UI**
-  - Modern gradient design
-  - Smooth animations and transitions
-  - Responsive layout (desktop & mobile)
-  - Intuitive user interface
-
-- **💾 Data Persistence**
-  - Automatic saving to localStorage
-  - Data persists between sessions
-  - No server or database required
-  - Works completely offline
-
-- **📦 Sample Data**
-  - Pre-loaded sample expenses for quick testing
-  - Easy demo data loading
-  - Clear all functionality with confirmation
-
 ## 🛠️ Tools Used
 
 ### Frontend Framework & Build Tools
@@ -206,41 +188,6 @@ PersonalFinanceTracker/
 ├── backend/                          # (Optional - not used in current version)
 └── README.md                         # This file
 ```
-
-## 🎯 Key Features in Detail
-
-### Real-Time Updates
-- Expenses appear instantly when added
-- Totals recalculate automatically
-- No page refresh required
-- Smooth slide-in animations
-
-### AI Chatbot Capabilities
-- Natural language expense queries with NLP
-- Category-specific analysis and predictions
-- Spending pattern recognition using ML algorithms
-- Personalized financial advice based on trends
-- Top expense identification
-- Average spending calculations
-- **ML-Powered Predictions**: "What will my spending on Food be in the future?"
-- **Multi-Month Forecasts**: Predict spending for next 3-6 months
-- **Trend Analysis**: Identify increasing/decreasing spending patterns
-- **ML-Powered Predictions**: "What will my spending on Food be in the future?"
-- **Multi-Month Forecasts**: Predict spending for next 3-6 months
-- **Trend Analysis**: Identify increasing/decreasing spending patterns
-
-### Category System
-- 8 predefined categories
-- Color-coded visual identification
-- Category-based spending totals
-- Easy category filtering (via chatbot)
-
-### Data Persistence
-- Automatic localStorage saving
-- Data survives browser restarts
-- No external dependencies
-- Privacy-focused (all data stays local)
-
 ## 🔧 Customization
 
 ### Adding New Categories
@@ -264,12 +211,6 @@ const getCategoryColor = (category) => {
 }
 ```
 
-## 🌐 Browser Compatibility
-
-- ✅ Chrome/Edge (latest)
-- ✅ Firefox (latest)
-- ✅ Safari (latest)
-- ✅ Opera (latest)
 
 ## 📝 Notes
 
@@ -309,12 +250,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - GitHub: [@akhilg24](https://github.com/akhilg24)
 - Email: akhilgadde99@gmail.com
 
-## 🙏 Acknowledgments
-
-- Built with React and Vite
-- Inspired by modern financial tracking applications
-- Designed for simplicity and user experience
-
 ---
 
-⭐ **Star this repo if you find it helpful!**
+⭐ **Inspired by modern financial tracking applications. Star this repo if you find it helpful!**
